@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\kyleg\OneDrive\Visual Studio\Repos\Project1\Project1\FileName.cpp(1,7): error C2143: syntax error: missing ';' before 'string'
+C:\Users\kyleg\OneDrive\Visual Studio\Repos\Project1\Project1\FileName.cpp(1,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kyleg\OneDrive\Visual Studio\Repos\Project1\Project1\FileName.cpp(1,7): error C2059: syntax error: 'string'
