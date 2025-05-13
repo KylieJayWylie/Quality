@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Quality\\OneDrive - Foxconn Industrial Internet in North America\\Documents\\Kyle\\GitHub\\Quality\\Quality Projects\\Probability\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Quality\\OneDrive - Foxconn Industrial Internet in North America\\Documents\\Kyle\\GitHub\\Quality\\Quality Projects\\Probability\\Normal Distribution\\Z score calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Normal Distribution\\Z score calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Quality\\OneDrive - Foxconn Industrial Internet in North America\\Documents\\Kyle\\GitHub\\Quality\\Quality Projects\\Probability\\Normal Distribution\\Z score VALUE finder.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Normal Distribution\\Z score VALUE finder.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Quality\\OneDrive - Foxconn Industrial Internet in North America\\Documents\\Kyle\\GitHub\\Quality\\Quality Projects\\Probability\\Normal Distribution\\Standard Deviation Calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Normal Distribution\\Standard Deviation Calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Quality\\OneDrive - Foxconn Industrial Internet in North America\\Documents\\Kyle\\GitHub\\Quality\\Quality Projects\\Probability\\Normal Distribution\\Z score VALUE finder.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Normal Distribution\\Z score VALUE finder.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Quality\\OneDrive - Foxconn Industrial Internet in North America\\Documents\\Kyle\\GitHub\\Quality\\Quality Projects\\Probability\\Normal Distribution\\Z score calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Normal Distribution\\Z score calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +25,12 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Z score VALUE finder.py",
               "DocumentMoniker": "C:\\Users\\Quality\\OneDrive - Foxconn Industrial Internet in North America\\Documents\\Kyle\\GitHub\\Quality\\Quality Projects\\Probability\\Normal Distribution\\Z score VALUE finder.py",
               "RelativeDocumentMoniker": "Normal Distribution\\Z score VALUE finder.py",
@@ -39,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Z score calculator.py",
               "DocumentMoniker": "C:\\Users\\Quality\\OneDrive - Foxconn Industrial Internet in North America\\Documents\\Kyle\\GitHub\\Quality\\Quality Projects\\Probability\\Normal Distribution\\Z score calculator.py",
               "RelativeDocumentMoniker": "Normal Distribution\\Z score calculator.py",
